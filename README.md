@@ -8,6 +8,6 @@
  
 <div> 
   
-  ![Snake animation](https://github.com/jamerson1000/jamerson1000/snake.svg)
+  ![Snake animation](https://github.com/jamerson1000/jamerson1000/image/snake.svg)
  
 </div>
